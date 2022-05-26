@@ -6,4 +6,4 @@
 ## Content
 
 ### gitmind
-* [脑图]([http://pages.cs.wisc.edu/~remzi/OSTEP/](https://gitmind.com/app/doc/8e111129781))
+* [脑图](https://gitmind.com/app/doc/8e111129781)
