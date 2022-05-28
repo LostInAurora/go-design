@@ -6,4 +6,6 @@
 ## Content
 
 ### gitmind
-* [脑图](https://gitmind.com/app/doc/8e111129781)
+* [脑图](https://gitmind.cn/app/doc/00b9064853)
+
+* [第五节:面向对象的特性](c05-oop)
