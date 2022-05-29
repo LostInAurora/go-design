@@ -34,7 +34,7 @@ func (fm *Formatter) Format(src, dst string) {
 	// 2. sort User by age
 	sortByAge(Users)
 
-	// 3.
+	// 3. write user to file
 	f, err := os.Create(dst)
 	if err != nil {
 		log.Fatalf("Error when create file: %s", err)
