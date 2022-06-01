@@ -31,6 +31,13 @@ func (*AwsStorer) download(url string) {
 	print("Aws Download\n")
 }
 
+type ImageProcessingJob struct {
+
+}
+
+
+
+
 func main() {
 	var s Storer
 	s  = new(AliStorer)
